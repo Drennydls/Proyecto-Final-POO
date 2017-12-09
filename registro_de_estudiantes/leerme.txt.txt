@@ -1,0 +1,2 @@
+Este sistema fue desarrollado bajo el Framework Codeigniter,
+para poder cargar el proyecto debes descargar el ya mencionado y depositar los archivos en sus carpetas correspondientes.
